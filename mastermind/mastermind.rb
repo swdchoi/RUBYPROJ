@@ -39,7 +39,7 @@ class Game
     print @@playerguess
     puts "hi"
   end
-
+``
   def playerrounds
     i = 0
     hint = []
